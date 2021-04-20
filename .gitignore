@@ -12,3 +12,5 @@ test.js
 
 # Windows Service
 daemon/
+
+.env
